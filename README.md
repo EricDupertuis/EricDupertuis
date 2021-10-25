@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [Pix4D](https://pix4d.com)
 
-- 🌱 I’m currently learning **Computer vision**
+- 🌱 I’m currently learning **Computer vision** and **Rust**
 
 - 👨‍💻 Take a glimpse at my projects on [https://edupertuis.net](https://edupertuis.net)
 
