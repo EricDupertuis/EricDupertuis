@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working at [Pix4D](https://pix4d.com)
 
-- 🌱 I’m currently learning **Computer vision** and **Rust**
+- 🌱 I’m currently learning **Rust** and **Game development**
 
 - 👨‍💻 Take a glimpse at my projects on [https://edupertuis.net](https://edupertuis.net)
 
 - 📫 How to reach me **contact@edupertuis.net**
-
-- 📄 Take a look at my resume [https://edupertuis.net/cv](https://edupertuis.net/cv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
