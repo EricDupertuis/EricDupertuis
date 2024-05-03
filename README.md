@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Eric</h1>
 <h3 align="center">Full-stack software engineer from Switzerland 🇨🇭</h3>
 
-- 🔭 I’m currently working at [Pix4D](https://pix4d.com)
+- 🔭 I’m currently working at [Arcanite](https://arcanite.ch/)
 
 - 🌱 I’m currently learning **Rust** and **Game development**
 
